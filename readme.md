@@ -32,7 +32,7 @@ Login sistem je vključen kot del tehnične demonstracije znanja.
 - Responsive dizajn (namizje / mobilne naprave)
 
 ## 📂 Struktura projekta
-
+```text
 /spletna_prosnja
 ├─ index.html # prijava
 ├─ account.html # registracija
@@ -41,11 +41,7 @@ Login sistem je vključen kot del tehnične demonstracije znanja.
 ├─ style.css # stil prijave
 ├─ main.css # stil portfolia
 /images
-
-```text
-spletna_prosnja/
-├─ index.html
-...
+```
 
 
 ## 🚀 Namen projekta
