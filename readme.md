@@ -33,3 +33,11 @@ Login sistem je vključen kot del tehnične demonstracije znanja.
 
 ## 📂 Struktura projekta
 
+/spletna_prosnja
+├─ index.html # prijava
+├─ account.html # registracija
+├─ main.php # portfolio
+├─ db.php # povezava na bazo
+├─ style.css # stil prijave
+├─ main.css # stil portfolia
+/images
