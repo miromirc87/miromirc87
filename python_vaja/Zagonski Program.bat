@@ -1,3 +1,3 @@
 @echo off
-start "" pythonw.exe "D:\Programiranje\python\PyCharm\Cisterne.py"
+start "" pythonw.exe "File path"
 exit
