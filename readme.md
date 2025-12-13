@@ -1,0 +1,35 @@
+# Portfolio – Miro Luteršmit
+
+Osebni portfolio projekt, namenjen predstavitvi mojega znanja
+na področju razvoja informacijskih sistemov in spletnih aplikacij.
+
+## 👨‍💻 O projektu
+
+Projekt predstavlja moj osebni portfolio, v katerem prikazujem:
+- znanje programiranja v PHP in Pythonu
+- delo z MySQL bazami
+- osnovne varnostne prakse (hashiranje gesel, session zaščita)
+- razvoj spletnih predstavitvenih strani
+
+Portfolio je dostopen tudi brez prijave (guest mode).
+Login sistem je vključen kot del tehnične demonstracije znanja.
+
+## 🛠 Uporabljene tehnologije
+
+- PHP 8 (PDO)
+- MySQL
+- HTML5
+- CSS3 (responsive design)
+- Python
+- Git / GitHub
+
+## ✨ Funkcionalnosti
+
+- Login sistem z varnim preverjanjem gesel
+- Session-based avtentikacija
+- Registracija uporabnikov z ročno aktivacijo
+- Možnost ogleda portfolia brez prijave (guest mode)
+- Responsive dizajn (namizje / mobilne naprave)
+
+## 📂 Struktura projekta
+
