@@ -41,3 +41,29 @@ Login sistem je vključen kot del tehnične demonstracije znanja.
 ├─ style.css # stil prijave
 ├─ main.css # stil portfolia
 /images
+
+```text
+spletna_prosnja/
+├─ index.html
+...
+
+
+## 🚀 Namen projekta
+
+Projekt je bil razvit kot del osebnega portfolia z namenom
+pridobivanja prve zaposlitve na področju razvoja informacijskih sistemov.
+
+## 🌍 Ogled projekta
+
+Spletna stran:
+👉 https://miromirc.infinityfree.me
+
+## 📫 Kontakt
+
+- Email: miro.lutersmit@gmail.com  
+- GitHub: https://github.com/miromirc87  
+- LinkedIn: https://www.linkedin.com/in/miro-lutersmit-723a513a0  
+
+---
+
+© 2025 Miro Luteršmit
