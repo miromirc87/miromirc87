@@ -1,0 +1,10 @@
+pridevnik1 = input("vpisi pridevnik (opis): ")
+samostalnik1 = input("vpisi samostalnik (oseba, kraj, predmet): ")
+pridevnik2 = input("vpisi pridevnik (opis): ")
+glagol1 = input("vpisi glagol (dejanje) : ")
+pridevnik3 = input("vpisi pridevnik (opis): ")
+
+print(f"danes sem šel v {pridevnik1} živalski vrt")
+print(f"Videl sem {samostalnik1}")
+print(f"{samostalnik1} je bila {pridevnik2} in {glagol1}")
+print(f"bil sem {pridevnik3}!")
